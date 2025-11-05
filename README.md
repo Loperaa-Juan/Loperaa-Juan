@@ -63,8 +63,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/uml-chatbot-backend](https://github.com/Loperaa-Juan/uml-chatbot-backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/uml-chatbot](https://github.com/Loperaa-Juan/uml-chatbot)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/uml-chatbot-backend](https://github.com/Loperaa-Juan/uml-chatbot-backend)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/uml-chatbot](https://github.com/Loperaa-Juan/uml-chatbot)<br>
 <!--RECENT_ACTIVITY:end-->
 
