@@ -61,11 +61,11 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-4. 💪 Opened PR [#5](undefined) in [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+1. ⭐ Starred [antoniosarosi/rxh](https://github.com/antoniosarosi/rxh)<br>
+2. ⭐ Starred [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+5. 💪 Opened PR [#5](undefined) in [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
