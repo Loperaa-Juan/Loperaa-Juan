@@ -62,10 +62,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-2. ⭐ Starred [antoniosarosi/rxh](https://github.com/antoniosarosi/rxh)<br>
-3. ⭐ Starred [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+3. ⭐ Starred [antoniosarosi/rxh](https://github.com/antoniosarosi/rxh)<br>
+4. ⭐ Starred [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
