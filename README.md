@@ -61,11 +61,11 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-3. ⭐ Starred [antoniosarosi/rxh](https://github.com/antoniosarosi/rxh)<br>
-4. ⭐ Starred [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/CNN_Malaria](https://github.com/Loperaa-Juan/CNN_Malaria)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/cliente-InmoPlus](https://github.com/Loperaa-Juan/cliente-InmoPlus)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/cliente-InmoPlus](https://github.com/Loperaa-Juan/cliente-InmoPlus)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+5. ⭐ Starred [antoniosarosi/rxh](https://github.com/antoniosarosi/rxh)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
