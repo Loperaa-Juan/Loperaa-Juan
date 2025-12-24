@@ -65,7 +65,6 @@
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/cliente-InmoPlus](https://github.com/Loperaa-Juan/cliente-InmoPlus)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-5. ⭐ Starred [antoniosarosi/rxh](https://github.com/antoniosarosi/rxh)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
