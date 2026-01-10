@@ -63,7 +63,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/cliente-InmoPlus](https://github.com/Loperaa-Juan/cliente-InmoPlus)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/cliente-InmoPlus](https://github.com/Loperaa-Juan/cliente-InmoPlus)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
