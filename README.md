@@ -61,6 +61,9 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
