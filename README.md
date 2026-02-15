@@ -61,9 +61,11 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
+2. ⬆️ Pushed undefined commit(s) to [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
+3. ⬆️ Pushed undefined commit(s) to [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
+4. 💪 Opened PR [#2](undefined) in [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
+5. ⬆️ Pushed undefined commit(s) to [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
