@@ -70,6 +70,7 @@
 
 ---
 
+<!--
 ## 📈 GitHub Stats  
 
 <p align="center">
@@ -78,6 +79,7 @@
 </p>
 
 ---
+-->
 
 ## 🌍 Conecta conmigo  
 
