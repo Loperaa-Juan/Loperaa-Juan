@@ -61,11 +61,11 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
-2. ⬆️ Pushed undefined commit(s) to [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
-3. ⬆️ Pushed undefined commit(s) to [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
-4. ⬆️ Pushed undefined commit(s) to [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
-5. 💪 Opened PR [#2](undefined) in [DeviDO527/iue-prog-web](https://github.com/DeviDO527/iue-prog-web)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
+3. 💪 Opened PR [#2](undefined) in [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
+5. 💪 Opened PR [#1](undefined) in [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
