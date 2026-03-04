@@ -61,11 +61,11 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
-4. 💪 Opened PR [#2](undefined) in [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
+4. ⭐ Starred [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
