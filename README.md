@@ -65,7 +65,7 @@
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
-5. 💪 Opened PR [#6](undefined) in [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
