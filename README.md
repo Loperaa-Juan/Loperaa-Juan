@@ -1,15 +1,17 @@
-# 🌟 Hola, soy Juan José
+# 🌟 Hello World, I'm Juan José
 
-💻 **Estudiante de Ingeniería Informática** y apasionado por el **Desarrollo Backend** y la **Inteligencia Artificial**.  
+* 💻 **Computer Science Student** and passionate about **Backend Development** and **Artificial Intelligence**.  
 
-🎯 Mi meta es convertirme en **AI Software Engineer** y trabajar en empresas tecnológicas de primer nivel.  
+* 🎯 My goal is to become an **AI Software Engineer** and work in top-tier technology companies.  
 
-🚀 Actualmente me enfoco en **Machine Learning, Deep Learning y Backend Escalable**.  
+* 🚀 Currently focused on **Machine Learning, Deep Learning and Scalable Backend**.
+
+* 🌱 I'm currently learning **CUDA**, **Distributed Systems** and **Go**
 
 ---
 ## 🛠️ Tech Stack  
 
-### 🔧 Lenguajes y Frameworks  
+### 🔧 Languages and Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,7 +23,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️Bases de Datos
+### 🗄️Databases
 ![PostgreSQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -30,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-2DC866?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### 📊 Ciencia de Datos / IA  
+### 📊 Data Science / AI  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -39,14 +41,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🧰 Sistemas Operativos y Herramientas
+### 🧰 Operating Systems and Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,7 +59,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
-### :zap: Actividad reciente
+### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
@@ -70,18 +71,16 @@
 
 ---
 
-<!--
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loperaa-Juan&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loperaa-Juan&layout=compact&theme=radical" alt="Lenguajes más usados" height="165"/>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Loperaa-Juan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Loperaa-Juan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Loperaa-Juan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loperaa-Juan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  
 
 ---
--->
 
-## 🌍 Conecta conmigo  
+
+## 🌍 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-lopera-londo%C3%B1o-55933b270/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jjlopera.tech@gmail.com)  
