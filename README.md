@@ -62,10 +62,10 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+2. 💪 Opened PR [#3](undefined) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+4. ⭐ Starred [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
 <!--RECENT_ACTIVITY:end-->
 
