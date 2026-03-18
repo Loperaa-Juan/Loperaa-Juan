@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-2. 💪 Opened PR [#3](undefined) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-4. ⭐ Starred [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
+4. 💪 Opened PR [#3](undefined) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
