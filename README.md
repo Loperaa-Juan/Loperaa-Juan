@@ -62,10 +62,10 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/FisioVis](https://github.com/Loperaa-Juan/FisioVis)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
-4. 💪 Opened PR [#2](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
 <!--RECENT_ACTIVITY:end-->
 
