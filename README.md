@@ -66,7 +66,7 @@
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
+5. 💪 Opened PR [#1](undefined) in [Loperaa-Juan/MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
