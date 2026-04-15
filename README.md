@@ -71,11 +71,22 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Analytics / Loperaa-Juan
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Loperaa-Juan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Loperaa-Juan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Loperaa-Juan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loperaa-Juan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loperaa-Juan&show_icons=true&count_private=true&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15&include_all_commits=true&line_height=25" alt="GitHub Stats" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loperaa-Juan&layout=compact&count_private=true&langs_count=10&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" height="200em" />
+</div> -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Loperaa-Juan&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=4ECDC4&fire=FFD700&currStreakLabel=4ECDC4&sideLabels=ffffff&dates=ffffff&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" width="60%" />
+</div>
+
+## 📈 Development Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loperaa-Juan&custom_title=Loperaa-Juan's%20Code%20Journey&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=15" width="100%" alt="Contribution Graph" />
+</div>
 
 ---
 
