@@ -62,10 +62,10 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+2. 👍 Approved [#9](https://github.com/Loperaa-Juan/proyecto_prog_web/pull/9#pullrequestreview-4124924102) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+4. 👍 Approved [#8](https://github.com/Loperaa-Juan/proyecto_prog_web/pull/8#pullrequestreview-4124922196) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 <!--RECENT_ACTIVITY:end-->
 
