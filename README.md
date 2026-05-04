@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [voxel51/fiftyone](https://github.com/voxel51/fiftyone)<br>
-2. ⭐ Starred [susanli2016/Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)<br>
-3. ⭐ Starred [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-5. 💪 Opened PR [#12](undefined) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+2. ⭐ Starred [voxel51/fiftyone](https://github.com/voxel51/fiftyone)<br>
+3. ⭐ Starred [susanli2016/Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)<br>
+4. ⭐ Starred [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
