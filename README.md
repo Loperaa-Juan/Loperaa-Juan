@@ -63,9 +63,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
-2. 💪 Opened PR [#6](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+2. 💪 Opened PR [#7](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
-4. 💪 Opened PR [#5](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+4. 💪 Opened PR [#6](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
 <!--RECENT_ACTIVITY:end-->
 
