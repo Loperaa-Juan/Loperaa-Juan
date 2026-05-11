@@ -1,65 +1,118 @@
-# 🌟 Hello World, I'm Juan José
+# 👋 Hi, I'm Juan José
 
-* 💻 **Computer Science Student** and passionate about **Backend Development** and **Artificial Intelligence**.  
+### 🧠 Aspiring **AI/ML Engineer** · 💻 Computer Science Student · 🐧 Linux Enthusiast
 
-* 🎯 My goal is to become an **AI Software Engineer** and work in top-tier technology companies.  
+Building at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Scalable Systems**.
 
-* 🚀 Currently focused on **Machine Learning, Deep Learning and Scalable Backend**.
-
-* 🌱 I'm currently learning **CUDA**, **Distributed Systems** and **Go**
+- 🎯 **Mission:** Become an **AI/ML Engineer** and ship production-grade intelligent systems at top-tier technology companies.
+- 🔬 **Currently exploring:** Deep Learning architectures, model optimization, and GPU programming with **CUDA**.
+- 🌱 **Learning:** **CUDA**, **Distributed Systems**, **Go**, and **MLOps** best practices.
+- ⚡ **Driven by:** Turning research into reliable, scalable AI that solves real-world problems.
 
 ---
-## 🛠️ Tech Stack  
 
-### 🔧 Languages and Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🛠️ Tech Stack
 
-### 🗄️Databases
-![PostgreSQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-2DC866?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### 📊 Data Science / AI  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 📊 Data Science / AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6F20?style=for-the-badge&logo=gradio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ☁️ Cloud & DevOps  
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-2DC866?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### ☁️ Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🧰 Operating Systems and Tools
+### 🐧 Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![UV](https://img.shields.io/badge/uv-202020?style=for-the-badge&logo=uv&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
-### :zap: Recent Activity
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)
+
+> <!-- TODO: 1-2 line pitch. Problem solved + key result (e.g., CNN-based malware image classifier, dataset, accuracy). -->
+
+**Stack:** `Python` · `TensorFlow` · `CNN` · `FastAPI` · `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [FisioVis](https://github.com/Loperaa-Juan/FisioVis)
+
+> <!-- TODO: 1-2 line pitch. What it does (pose tracking? rehab feedback via LLM?) and outcome. -->
+
+**Stack:** `Python` · `Django` · `PostgreSQL` · `MediaPipe` · `OpenAI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)
+
+> <!-- TODO: 1-2 line pitch. Which models compared, on what dataset, key finding. -->
+
+**Stack:** `Python` · `Scikit-learn` · `TensorFlow` · `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ More on my [GitHub](https://github.com/Loperaa-Juan?tab=repositories)
+
+> Browse every repository — explorations in deep learning, backend services, and systems programming.
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
@@ -73,10 +126,9 @@
 
 ## 📊 GitHub Analytics / Loperaa-Juan
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loperaa-Juan&show_icons=true&count_private=true&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15&include_all_commits=true&line_height=25" alt="GitHub Stats" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loperaa-Juan&layout=compact&count_private=true&langs_count=10&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" height="200em" />
-</div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loperaa-Juan&layout=compact&count_private=true&langs_count=10&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" width="60%" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Loperaa-Juan&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=4ECDC4&fire=FFD700&currStreakLabel=4ECDC4&sideLabels=ffffff&dates=ffffff&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" width="60%" />
@@ -90,10 +142,9 @@
 
 ---
 
+## 🌍 Let's Connect
 
-## 🌍 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-lopera-londo%C3%B1o-55933b270/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjlopera.tech@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-lopera-londo%C3%B1o-55933b270/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jjlopera.tech@gmail.com)  
-
----  
+---
