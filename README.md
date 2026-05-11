@@ -126,9 +126,9 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 ## 📊 GitHub Analytics / Loperaa-Juan
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loperaa-Juan&layout=compact&count_private=true&langs_count=10&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" width="60%" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Loperaa-Juan&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=4ECDC4&fire=FFD700&currStreakLabel=4ECDC4&sideLabels=ffffff&dates=ffffff&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" width="60%" />
