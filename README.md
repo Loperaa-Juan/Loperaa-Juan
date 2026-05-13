@@ -116,10 +116,10 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SegDiffuse](https://github.com/Loperaa-Juan/SegDiffuse)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-5. 💪 Opened PR [#13](undefined) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SegDiffuse](https://github.com/Loperaa-Juan/SegDiffuse)<br>
+3. 💪 Opened PR [#2](undefined) in [Loperaa-Juan/SegDiffuse](https://github.com/Loperaa-Juan/SegDiffuse)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SegDiffuse](https://github.com/Loperaa-Juan/SegDiffuse)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
