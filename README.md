@@ -116,9 +116,9 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
-2. 💪 Opened PR [#10](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+2. 💪 Opened PR [#12](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+4. 💪 Opened PR [#11](undefined) in [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
 <!--RECENT_ACTIVITY:end-->
 
