@@ -115,10 +115,10 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
 <!--RECENT_ACTIVITY:end-->
 
