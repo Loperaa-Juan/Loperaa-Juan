@@ -118,8 +118,8 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-5. 💪 Opened PR [#21](undefined) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
