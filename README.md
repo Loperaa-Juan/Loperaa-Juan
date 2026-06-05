@@ -115,11 +115,11 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-2. 👍 Approved [#22](https://github.com/Loperaa-Juan/proyecto_prog_web/pull/22#pullrequestreview-4422522606) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
-3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/smallcoder](https://github.com/Loperaa-Juan/smallcoder)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/maestrIA](https://github.com/Loperaa-Juan/maestrIA)<br>
+2. 👍 Approved [#24](https://github.com/Loperaa-Juan/proyecto_prog_web/pull/24#pullrequestreview-4432324583) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+4. ❌ Closed PR [#23](undefined) in [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/proyecto_prog_web](https://github.com/Loperaa-Juan/proyecto_prog_web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
