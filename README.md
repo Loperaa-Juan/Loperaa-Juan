@@ -75,16 +75,16 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 ### 🛡️ [MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)
 
-> <!-- TODO: 1-2 line pitch. Problem solved + key result (e.g., CNN-based malware image classifier, dataset, accuracy). -->
+> AI-powered platform that detects malware by converting the first 1,024 bytes of executable binaries into grayscale images and classifying them using a Convolutional Neural Network (CNN).
 
 **Stack:** `Python` · `TensorFlow` · `CNN` · `FastAPI` · `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [FisioVis](https://github.com/Loperaa-Juan/FisioVis)
+### ✂️🎨 [SegDiffuse](https://github.com/Loperaa-Juan/SegDiffuse)
 
-> <!-- TODO: 1-2 line pitch. What it does (pose tracking? rehab feedback via LLM?) and outcome. -->
+> AI-powered image editor that fuses instance segmentation (Detectron2) with generative inpainting (Flux.1 Fill Dev) to let users replace objects via natural language.
 
 **Stack:** `Python` · `Django` · `PostgreSQL` · `MediaPipe` · `OpenAI`
 
@@ -93,9 +93,9 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [regression-ml-comparisson](https://github.com/Loperaa-Juan/regression-ml-comparisson)
+### 🤖⌨️ [Smallcoder](https://github.com/Loperaa-Juan/smallcoder)
 
-> <!-- TODO: 1-2 line pitch. Which models compared, on what dataset, key finding. -->
+> Fine-tuning Qwen2.5-1.5B with QLoRA for offline code assistance, shipped as a VS Code extension
 
 **Stack:** `Python` · `Scikit-learn` · `TensorFlow` · `Docker`
 
