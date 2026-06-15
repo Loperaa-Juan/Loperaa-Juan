@@ -86,7 +86,7 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 > AI-powered image editor that fuses instance segmentation (Detectron2) with generative inpainting (Flux.1 Fill Dev) to let users replace objects via natural language.
 
-**Stack:** `Python` · `Django` · `PostgreSQL` · `MediaPipe` · `OpenAI`
+**Stack:** `Python` · `FastAPI` · `Detectron` · `Flux.1 Fill Dev` · `Pytorch` . `Diffusers` · `Docker`
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 > Fine-tuning Qwen2.5-1.5B with QLoRA for offline code assistance, shipped as a VS Code extension
 
-**Stack:** `Python` · `Scikit-learn` · `TensorFlow` · `Docker`
+**Stack:** `Python` · `Pytorch` · `TypeScript` · `Hugging Face`
 
 </td>
 <td width="50%" valign="top">
