@@ -75,7 +75,7 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 ### 🛡️ [MalwareVision](https://github.com/Loperaa-Juan/MalwareVision)
 
-> AI-powered platform that detects malware by converting the first 1,024 bytes of executable binaries into grayscale images and classifying them using a Convolutional Neural Network (CNN).
+> Malware family classification model trained on Virus-MNIST, a dataset of 32×32 grayscale images derived from the first bytes of PE executables.
 
 **Stack:** `Python` · `TensorFlow` · `CNN` · `FastAPI` · `Docker`
 
