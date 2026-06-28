@@ -115,7 +115,7 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/SnnipetHub-Backend](https://github.com/Loperaa-Juan/SnnipetHub-Backend)<br>
