@@ -119,7 +119,6 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 2. 💪 Opened PR [#1](undefined) in [Loperaa-Juan/Loperaa-Juan](https://github.com/Loperaa-Juan/Loperaa-Juan)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
-5. 💪 Opened PR [#7](undefined) in [Loperaa-Juan/regression-ml-comparison](https://github.com/Loperaa-Juan/regression-ml-comparison)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
