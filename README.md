@@ -116,7 +116,7 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Actividad_2_BigData](https://github.com/Loperaa-Juan/Actividad_2_BigData)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Actividad_Autos_BigData](https://github.com/Loperaa-Juan/Actividad_Autos_BigData)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Actividad_2_BigData](https://github.com/Loperaa-Juan/Actividad_2_BigData)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Actividad_Autos_BigData](https://github.com/Loperaa-Juan/Actividad_Autos_BigData)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Actividad_Autos_BigData](https://github.com/Loperaa-Juan/Actividad_Autos_BigData)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Actividad_Autos_BigData](https://github.com/Loperaa-Juan/Actividad_Autos_BigData)<br>
