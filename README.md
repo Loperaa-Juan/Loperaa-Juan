@@ -116,10 +116,10 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
-2. 💪 Opened PR [#5](undefined) in [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
-3. 💪 Opened PR [#4](undefined) in [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
-4. 💪 Opened PR [#3](undefined) in [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
-5. 💪 Opened PR [#2](undefined) in [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
+4. 💪 Opened PR [#5](undefined) in [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
+5. 💪 Opened PR [#4](undefined) in [Loperaa-Juan/US-Wildfires-Big-Data](https://github.com/Loperaa-Juan/US-Wildfires-Big-Data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
