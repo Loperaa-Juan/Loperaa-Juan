@@ -115,7 +115,7 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+1. 💪 Opened PR [#1](undefined) in [Loperaa-Juan/Hard-Disk-Lifecycle-Kafka](https://github.com/Loperaa-Juan/Hard-Disk-Lifecycle-Kafka)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
