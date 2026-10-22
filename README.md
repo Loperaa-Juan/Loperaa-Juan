@@ -115,11 +115,11 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Hard-Disk-Lifecycle-Kafka](https://github.com/Loperaa-Juan/Hard-Disk-Lifecycle-Kafka)<br>
+1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
-3. 💪 Opened PR [#3](undefined) in [Loperaa-Juan/Hard-Disk-Lifecycle-Kafka](https://github.com/Loperaa-Juan/Hard-Disk-Lifecycle-Kafka)<br>
-4. ❌ Closed PR [#3](undefined) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+3. 💪 Opened PR [#5](undefined) in [Loperaa-Juan/Hard-Disk-Lifecycle-Kafka](https://github.com/Loperaa-Juan/Hard-Disk-Lifecycle-Kafka)<br>
+4. 👍 Approved [#4](https://github.com/Loperaa-Juan/agrotrace-project/pull/4#pullrequestreview-5606234041) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Hard-Disk-Lifecycle-Kafka](https://github.com/Loperaa-Juan/Hard-Disk-Lifecycle-Kafka)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
