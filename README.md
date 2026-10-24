@@ -116,7 +116,7 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
-2. 💪 Opened PR [#5](undefined) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+2. 👍 Approved [#6](https://github.com/Loperaa-Juan/agrotrace-project/pull/6#pullrequestreview-5634976007) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
