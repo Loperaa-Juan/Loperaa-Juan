@@ -118,8 +118,8 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/New-Inntech-Rest-API](https://github.com/Loperaa-Juan/New-Inntech-Rest-API)<br>
 2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/New-Inntech-Rest-API](https://github.com/Loperaa-Juan/New-Inntech-Rest-API)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/New-Inntech-Rest-API](https://github.com/Loperaa-Juan/New-Inntech-Rest-API)<br>
-4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Hard-Disk-Lifecycle-Kafka](https://github.com/Loperaa-Juan/Hard-Disk-Lifecycle-Kafka)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Hard-Disk-Lifecycle-Kafka](https://github.com/Loperaa-Juan/Hard-Disk-Lifecycle-Kafka)<br>
+4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/New-Inntech-Rest-API](https://github.com/Loperaa-Juan/New-Inntech-Rest-API)<br>
+5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/New-Inntech-Rest-API](https://github.com/Loperaa-Juan/New-Inntech-Rest-API)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
