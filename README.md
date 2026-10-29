@@ -115,11 +115,11 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Ejercicio-SIG](https://github.com/Loperaa-Juan/Ejercicio-SIG)<br>
-2. 💪 Opened PR [#8](undefined) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
-3. 💪 Opened PR [#7](undefined) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+1. 👍 Approved [#9](https://github.com/Loperaa-Juan/agrotrace-project/pull/9#pullrequestreview-5690581056) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Ejercicio-SIG](https://github.com/Loperaa-Juan/Ejercicio-SIG)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Ejercicio-SIG](https://github.com/Loperaa-Juan/Ejercicio-SIG)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Ejercicio-SIG](https://github.com/Loperaa-Juan/Ejercicio-SIG)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Ejercicio-SIG](https://github.com/Loperaa-Juan/Ejercicio-SIG)<br>
+5. 💪 Opened PR [#8](undefined) in [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
