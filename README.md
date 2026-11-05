@@ -115,8 +115,8 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+1. 💪 Opened PR [#1](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+2. 🤝 Became collaborator on [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
 3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 4. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
