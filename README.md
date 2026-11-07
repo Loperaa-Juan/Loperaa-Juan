@@ -115,11 +115,11 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/Jairo-commit/big_data_lifeMap/pull/4#pullrequestreview-5803959725) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-2. 👍 Approved [#2](https://github.com/Jairo-commit/big_data_lifeMap/pull/2#pullrequestreview-5803529848) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-3. 💪 Opened PR [#1](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-4. 🤝 Became collaborator on [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+1. ⬆️ Pushed undefined commit(s) to [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+2. 👍 Approved [#4](https://github.com/Jairo-commit/big_data_lifeMap/pull/4#pullrequestreview-5803959725) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+3. 👍 Approved [#2](https://github.com/Jairo-commit/big_data_lifeMap/pull/2#pullrequestreview-5803529848) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+4. 💪 Opened PR [#1](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+5. 🤝 Became collaborator on [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
