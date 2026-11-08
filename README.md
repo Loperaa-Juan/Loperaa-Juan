@@ -115,11 +115,11 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-2. 💪 Opened PR [#7](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+1. ⬆️ Pushed undefined commit(s) to [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+2. ⬆️ Pushed undefined commit(s) to [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
 3. ⬆️ Pushed undefined commit(s) to [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-4. 👍 Approved [#4](https://github.com/Jairo-commit/big_data_lifeMap/pull/4#pullrequestreview-5803959725) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-5. 👍 Approved [#2](https://github.com/Jairo-commit/big_data_lifeMap/pull/2#pullrequestreview-5803529848) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+4. 💪 Opened PR [#9](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+5. 💪 Opened PR [#7](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
