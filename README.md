@@ -116,10 +116,10 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
-2. ⬆️ Pushed undefined commit(s) to [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-3. 💪 Opened PR [#12](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/agrotrace-project](https://github.com/Loperaa-Juan/agrotrace-project)<br>
 4. ⬆️ Pushed undefined commit(s) to [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-5. 💪 Opened PR [#11](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+5. 💪 Opened PR [#12](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
