@@ -115,11 +115,11 @@ Building at the intersection of **Artificial Intelligence**, **Machine Learning*
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-2. 💪 Opened PR [#16](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-3. 💪 Opened PR [#15](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-4. 💪 Opened PR [#14](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
-5. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Agrotrace-BDD](https://github.com/Loperaa-Juan/Agrotrace-BDD)<br>
+1. ⬆️ Pushed undefined commit(s) to [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+2. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Agrotrace-BDD](https://github.com/Loperaa-Juan/Agrotrace-BDD)<br>
+3. ⬆️ Pushed undefined commit(s) to [Loperaa-Juan/Agrotrace-BDD](https://github.com/Loperaa-Juan/Agrotrace-BDD)<br>
+4. 💪 Opened PR [#17](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
+5. 💪 Opened PR [#16](undefined) in [Jairo-commit/big_data_lifeMap](https://github.com/Jairo-commit/big_data_lifeMap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
